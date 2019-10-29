@@ -1,0 +1,22 @@
+Program Electives (minimum 5 credits)
+Social Sciences (15 credits)
+Humanities (15 credits)
+Human Relations and Professional Development Skills (3 credits)
+CS133/143
+CS132/142	5
+CS131/141	6
+CS115	7
+MATH254
+MATH153	9
+PHYS223
+PHYS222	11
+MATH152	10	12
+PHYS221	12
+MATH151	14	13
+MATH142	15
+MATH141	16
+MATH97	17	8
+MATH87	18
+ENGR231
+ENGL101	20	14
+ENGL99	21
